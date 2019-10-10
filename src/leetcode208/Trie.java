@@ -1,7 +1,5 @@
 package leetcode208;
 
-import linkedlist.leetcode142.Solution;
-
 /**
  * Your Trie object will be instantiated and called as such:
  * Trie obj = new Trie();

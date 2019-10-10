@@ -122,6 +122,4 @@ public class ArrayPractice {
         return false;
     }
 
-
-
 }
